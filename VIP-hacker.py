@@ -68,3 +68,4 @@ tk.Entry(master=input_frame,width=100,borderwidth=5,font=('宋体',12,),relief='
 botton=tk.Button(master=mainwin,text='点击此处粉碎万恶VIP',font=('仿宋',28,'bold'),relief='flat',fg='red',bg='yellow',command=show).pack(fill='both',pady=10)
 #让窗口持续出现
 mainwin.mainloop()
+ 
